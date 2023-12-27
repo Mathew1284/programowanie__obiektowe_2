@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mati\\Desktop\\zad\\zadania\\zadania\\zadania.csproj",
+      "projectUniqueName": "C:\\Users\\Mati\\Desktop\\studia sem 3\\zadania\\zadania\\zadania.csproj",
       "projectName": "zadania",
-      "projectPath": "C:\\Users\\Mati\\Desktop\\zad\\zadania\\zadania\\zadania.csproj",
+      "projectPath": "C:\\Users\\Mati\\Desktop\\studia sem 3\\zadania\\zadania\\zadania.csproj",
       "packagesPath": "C:\\Users\\Mati\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mati\\Desktop\\zad\\zadania\\zadania\\obj\\",
+      "outputPath": "C:\\Users\\Mati\\Desktop\\studia sem 3\\zadania\\zadania\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
